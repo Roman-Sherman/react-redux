@@ -1,0 +1,6 @@
+{
+  "sandboxes": ["vanilla", "vanilla-ts"],
+  "node": "18",
+  "buildCommand": "build",
+  "packages": ["."]
+}
